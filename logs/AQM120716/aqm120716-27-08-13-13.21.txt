@@ -1,0 +1,370 @@
+
+-I- 12:44:00 - 27/08/2013
+-I- Ventiladores encendidos.
+-I- 12:45:00 - 27/08/2013
+-I- AT Command: AT+CREG?
+-I- AT Command: AT+CMGR=1
+-I- No hay SMS disponible.
+-I- Ventiladores apagados.
+-I- Se espera un comando del GPS durante 5 segundos...
+-I- Comando NMEA recibido.
+-I- Checksum = 5E -> OK.
+-I- Cmd: $GPRMC,154549.000,A,3438.8542,S,05829.8678,W,0.63,24.83,270813,,,A*5E
+-I- Guardando registro de muestreo en la sesion en curso...
+-I- Escritos 200 bytes en el archivo 0:/AQM120716_2013-08-27_1218.csv.
+-I- 12:46:00 - 27/08/2013
+-I- 12:47:00 - 27/08/2013
+-I- 12:48:00 - 27/08/2013
+-I- 12:49:00 - 27/08/2013
+-I- Ventiladores encendidos.
+-I- 12:50:00 - 27/08/2013
+-I- AT Command: AT+CREG?
+-I- AT Command: AT+CMGR=1
+-I- No hay SMS disponible.
+-I- Ventiladores apagados.
+-I- Se espera un comando del GPS durante 5 segundos...
+-I- Comando NMEA recibido.
+-I- Checksum = 5F -> OK.
+-I- Cmd: $GPRMC,155050.000,A,3438.8606,S,05829.8725,W,0.31,24.83,270813,,,A*5F
+-I- Guardando registro de muestreo en la sesion en curso...
+-I- Escritos 200 bytes en el archivo 0:/AQM120716_2013-08-27_1218.csv.
+-I- 12:51:00 - 27/08/2013
+-I- 12:52:00 - 27/08/2013
+-I- 12:53:00 - 27/08/2013
+-I- 12:54:00 - 27/08/2013
+-I- Ventiladores encendidos.
+-I- 12:55:00 - 27/08/2013
+-I- AT Command: AT+CREG?
+-I- AT Command: AT+CMGR=1
+-I- No hay SMS disponible.
+-I- Ventiladores apagados.
+-I- Se espera un comando del GPS durante 5 segundos...
+-I- Comando NMEA recibido.
+-I- Checksum = 5C -> OK.
+-I- Cmd: $GPRMC,155551.000,A,3438.8558,S,05829.8768,W,0.51,24.83,270813,,,A*5C
+-I- Guardando registro de muestreo en la sesion en curso...
+-I- Escritos 200 bytes en el archivo 0:/AQM120716_2013-08-27_1218.csv.
+-I- 12:56:00 - 27/08/2013
+-I- 12:57:00 - 27/08/2013
+-I- 12:58:00 - 27/08/2013
+-I- 12:59:00 - 27/08/2013
+-I- Ventiladores encendidos.
+-I- 13:00:00 - 27/08/2013
+-I- AT Command: AT+CREG?
+-I- AT Command: AT+CMGR=1
+-I- No hay SMS disponible.
+-I- Ventiladores apagados.
+-I- Se espera un comando del GPS durante 5 segundos...
+-I- Comando NMEA recibido.
+-I- Checksum = 59 -> OK.
+-I- Cmd: $GPRMC,160052.000,A,3438.8558,S,05829.8857,W,0.13,24.83,270813,,,A*59
+-I- Guardando registro de muestreo en la sesion en curso...
+-I- Escritos 200 bytes en el archivo 0:/AQM120716_2013-08-27_1218.csv.
+-I- 13:01:00 - 27/08/2013
+-I- 13:02:00 - 27/08/2013
+-I- 13:03:00 - 27/08/2013
+-I- 13:04:00 - 27/08/2013
+-I- Ventiladores encendidos.
+-I- 13:05:00 - 27/08/2013
+-I- AT Command: AT+CREG?
+-I- AT Command: AT+CMGR=1
+-I- No hay SMS disponible.
+-I- Ventiladores apagados.
+-I- Se espera un comando del GPS durante 5 segundos...
+-I- Comando NMEA recibido.
+-I- Checksum = 58 -> OK.
+-I- Cmd: $GPRMC,160553.000,A,3438.8514,S,05829.9000,W,0.62,24.83,270813,,,A*58
+-I- Guardando registro de muestreo en la sesion en curso...
+-I- Escritos 200 bytes en el archivo 0:/AQM120716_2013-08-27_1218.csv.
+-I- 13:06:00 - 27/08/2013
+-I- 13:07:00 - 27/08/2013
+-I- 13:08:00 - 27/08/2013
+-I- 13:09:00 - 27/08/2013
+-I- Ventiladores encendidos.
+-I- 13:10:00 - 27/08/2013
+-I- AT Command: AT+CREG?
+-I- AT Command: AT+CMGR=1
+-I- No hay SMS disponible.
+-I- Ventiladores apagados.
+-I- Se espera un comando del GPS durante 5 segundos...
+-I- Comando NMEA recibido.
+-I- Checksum = 56 -> OK.
+-I- Cmd: $GPRMC,161054.000,A,3438.8440,S,05829.8961,W,0.42,24.83,270813,,,A*56
+-I- Guardando registro de muestreo en la sesion en curso...
+-I- Escritos 200 bytes en el archivo 0:/AQM120716_2013-08-27_1218.csv.
+-I- 13:11:00 - 27/08/2013
+-I- 13:12:00 - 27/08/2013
+-I- 13:13:00 - 27/08/2013
+-I- 13:14:00 - 27/08/2013
+-I- Ventiladores encendidos.
+-I- 13:15:00 - 27/08/2013
+-I- AT Command: AT+CREG?
+-I- AT Command: AT+CMGR=1
+-I- No hay SMS disponible.
+-I- Ventiladores apagados.
+-I- Se espera un comando del GPS durante 5 segundos...
+-I- Comando NMEA recibido.
+-I- Checksum = 5E -> OK.
+-I- Cmd: $GPRMC,161555.000,A,3438.8413,S,05829.8901,W,0.28,24.83,270813,,,A*5E
+-I- Guardando registro de muestreo en la sesion en curso...
+-I- Escritos 200 bytes en el archivo 0:/AQM120716_2013-08-27_1218.csv.
+-I- 13:16:00 - 27/08/2013
+-I- AT Command: AT+CREG?
+-I- AT Command: AT+CGREG?
+-I- Modo GPRS activado.
+-I- AT Command: AT#CONNECTIONSTART
+-I- Stack TCP/IP iniciado. IP: 181.82.47.2
+-I- AT Command: AT#OTCP=1
+-I- Socket TCP abierto. Estado: 
+Ok_Info_WaitingForData
+
+POST /aqm/reg_sesion/create HTTP/1.1
+Host: ccys.siafa.com.ar
+Content-Length: 245
+
+rs[sn]=AQM120716&rs[ts]=2013/08/27 12:20:47&rs[lat]=S 34 38.8095&rs[lon]=W 058 29.9057&rs[si1]=Temp&rs[sv1]=24.4&rs[si2]=Hum &rs[sv2]=37&rs[si3]=CO  &rs[sv3]=1.25&rs[si4]=SO2 &rs[sv4]=0.19&rs[si5]=VOCs&rs[sv5]=0.045&rs[obs]=Inicia sesion de 004h
+
+Respuesta:
+nt-Type: text/html;charset=utf-8
+Content-Length: 0
+Connection: keep-alive
+Status: 200 OK
+X-Powered-By: Phusion Passenger 4.0.8
+Date: Tue, 27 Aug 2013 13:16:20 ART
+Server: nginx/1.4.2 + Phusion Passenger 4.0.7
+
+
+
+POST /aqm/reg_sesion/create HTTP/1.1
+Host: ccys.siafa.com.ar
+Content-Length: 224
+
+rs[sn]=AQM120716&rs[ts]=2013/08/27 12:25:48&rs[lat]=S 34 38.8330&rs[lon]=W 058 29.8679&rs[si1]=Temp&rs[sv1]=23.0&rs[si2]=Hum &rs[sv2]=38&rs[si3]=CO  &rs[sv3]=0.78&rs[si4]=SO2 &rs[sv4]=0.14&rs[si5]=VOCs&rs[sv5]=0.013&rs[obs]=
+
+Respuesta:
+HTTP/ent-Type: text/html;charset=utf-8
+Content-Length: 0
+Connection: keep-alive
+Status: 200 OK
+X-Powered-By: Phusion Passenger 4.0.8
+Date: Tue, 27 Aug 2013 13:16:24 ART
+Server: nginx/1.4.2 + Phusion Passenger 4.0.7
+
+s
+
+POST /aqm/reg_sesion/create HTTP/1.1
+Host: ccys.siafa.com.ar
+Content-Length: 224
+
+rs[sn]=AQM120716&rs[ts]=2013/08/27 12:30:49&rs[lat]=S 34 38.8349&rs[lon]=W 058 29.8557&rs[si1]=Temp&rs[sv1]=22.1&rs[si2]=Hum &rs[sv2]=39&rs[si3]=CO  &rs[sv3]=0.62&rs[si4]=SO2 &rs[sv4]=0.15&rs[si5]=VOCs&rs[sv5]=0.026&rs[obs]=
+
+Respuesta:
+enger 4.0.7
+
+HTTP/ent-Type: text/html;charset=utf-8
+Content-Length: 0
+Connection: keep-alive
+Status: 200 OK
+X-Powered-By: Phusion Passenger 4.0.8
+Date: Tue, 27 Aug 2013 13:16:28 ART
+Server: nginx/1.4.2 + Phusion Passenger 4.0.7
+
+s
+
+POST /aqm/reg_sesion/create HTTP/1.1
+Host: ccys.siafa.com.ar
+Content-Length: 224
+
+rs[sn]=AQM120716&rs[ts]=2013/08/27 12:35:50&rs[lat]=S 34 38.8493&rs[lon]=W 058 29.8627&rs[si1]=Temp&rs[sv1]=20.7&rs[si2]=Hum &rs[sv2]=40&rs[si3]=CO  &rs[sv3]=0.65&rs[si4]=SO2 &rs[sv4]=0.17&rs[si5]=VOCs&rs[sv5]=0.021&rs[obs]=
+
+Respuesta:
+enger 4.0.7
+
+HTTP/ent-Type: text/html;charset=utf-8
+Content-Length: 0
+Connection: keep-alive
+Status: 200 OK
+X-Powered-By: Phusion Passenger 4.0.8
+Date: Tue, 27 Aug 2013 13:16:32 ART
+Server: nginx/1.4.2 + Phusion Passenger 4.0.7
+
+s
+
+POST /aqm/reg_sesion/create HTTP/1.1
+Host: ccys.siafa.com.ar
+Content-Length: 224
+
+rs[sn]=AQM120716&rs[ts]=2013/08/27 12:40:51&rs[lat]=S 34 38.8440&rs[lon]=W 058 29.8578&rs[si1]=Temp&rs[sv1]=22.1&rs[si2]=Hum &rs[sv2]=39&rs[si3]=CO  &rs[sv3]=0.73&rs[si4]=SO2 &rs[sv4]=0.18&rs[si5]=VOCs&rs[sv5]=0.056&rs[obs]=
+
+Respuesta:
+enger 4.0.7
+
+HTTP/1nt-Type: text/html;charset=utf-8
+Content-Length: 0
+Connection: keep-alive
+Status: 200 OK
+X-Powered-By: Phusion Passenger 4.0.8
+Date: Tue, 27 Aug 2013 13:16:36 ART
+Server: nginx/1.4.2 + Phusion Passenger 4.0.7
+
+s
+
+POST /aqm/reg_sesion/create HTTP/1.1
+Host: ccys.siafa.com.ar
+Content-Length: 224
+
+rs[sn]=AQM120716&rs[ts]=2013/08/27 12:45:52&rs[lat]=S 34 38.8542&rs[lon]=W 058 29.8678&rs[si1]=Temp&rs[sv1]=22.3&rs[si2]=Hum &rs[sv2]=39&rs[si3]=CO  &rs[sv3]=0.57&rs[si4]=SO2 &rs[sv4]=0.15&rs[si5]=VOCs&rs[sv5]=0.025&rs[obs]=
+
+Respuesta:
+enger 4.0.7
+
+HTTP/ent-Type: text/html;charset=utf-8
+Content-Length: 0
+Connection: keep-alive
+Status: 200 OK
+X-Powered-By: Phusion Passenger 4.0.8
+Date: Tue, 27 Aug 2013 13:16:40 ART
+Server: nginx/1.4.2 + Phusion Passenger 4.0.7
+
+s
+
+POST /aqm/reg_sesion/create HTTP/1.1
+Host: ccys.siafa.com.ar
+Content-Length: 224
+
+rs[sn]=AQM120716&rs[ts]=2013/08/27 12:50:53&rs[lat]=S 34 38.8606&rs[lon]=W 058 29.8725&rs[si1]=Temp&rs[sv1]=18.9&rs[si2]=Hum &rs[sv2]=39&rs[si3]=CO  &rs[sv3]=0.77&rs[si4]=SO2 &rs[sv4]=0.13&rs[si5]=VOCs&rs[sv5]=0.019&rs[obs]=
+
+Respuesta:
+enger 4.0.7
+
+HTTP/ent-Type: text/html;charset=utf-8
+Content-Length: 0
+Connection: keep-alive
+Status: 200 OK
+X-Powered-By: Phusion Passenger 4.0.8
+Date: Tue, 27 Aug 2013 13:16:43 ART
+Server: nginx/1.4.2 + Phusion Passenger 4.0.7
+
+s
+
+POST /aqm/reg_sesion/create HTTP/1.1
+Host: ccys.siafa.com.ar
+Content-Length: 224
+
+rs[sn]=AQM120716&rs[ts]=2013/08/27 12:55:54&rs[lat]=S 34 38.8558&rs[lon]=W 058 29.8768&rs[si1]=Temp&rs[sv1]=21.4&rs[si2]=Hum &rs[sv2]=39&rs[si3]=CO  &rs[sv3]=0.66&rs[si4]=SO2 &rs[sv4]=0.12&rs[si5]=VOCs&rs[sv5]=0.001&rs[obs]=
+
+Respuesta:
+enger 4.0.7
+
+HTTP/ent-Type: text/html;charset=utf-8
+Content-Length: 0
+Connection: keep-alive
+Status: 200 OK
+X-Powered-By: Phusion Passenger 4.0.8
+Date: Tue, 27 Aug 2013 13:16:48 ART
+Server: nginx/1.4.2 + Phusion Passenger 4.0.7
+
+s
+
+POST /aqm/reg_sesion/create HTTP/1.1
+Host: ccys.siafa.com.ar
+Content-Length: 224
+
+rs[sn]=AQM120716&rs[ts]=2013/08/27 13:00:55&rs[lat]=S 34 38.8558&rs[lon]=W 058 29.8857&rs[si1]=Temp&rs[sv1]=23.2&rs[si2]=Hum &rs[sv2]=39&rs[si3]=CO  &rs[sv3]=0.62&rs[si4]=SO2 &rs[sv4]=0.17&rs[si5]=VOCs&rs[sv5]=0.036&rs[obs]=
+
+Respuesta:
+enger 4.0.7
+
+HTTP/ent-Type: text/html;charset=utf-8
+Content-Length: 0
+Connection: keep-alive
+Status: 200 OK
+X-Powered-By: Phusion Passenger 4.0.8
+Date: Tue, 27 Aug 2013 13:16:52 ART
+Server: nginx/1.4.2 + Phusion Passenger 4.0.7
+
+s
+
+POST /aqm/reg_sesion/create HTTP/1.1
+Host: ccys.siafa.com.ar
+Content-Length: 224
+
+rs[sn]=AQM120716&rs[ts]=2013/08/27 13:05:56&rs[lat]=S 34 38.8514&rs[lon]=W 058 29.9000&rs[si1]=Temp&rs[sv1]=22.3&rs[si2]=Hum &rs[sv2]=39&rs[si3]=CO  &rs[sv3]=0.66&rs[si4]=SO2 &rs[sv4]=0.16&rs[si5]=VOCs&rs[sv5]=0.003&rs[obs]=
+
+Respuesta:
+enger 4.0.7
+
+HTTP/ent-Type: text/html;charset=utf-8
+Content-Length: 0
+Connection: keep-alive
+Status: 200 OK
+X-Powered-By: Phusion Passenger 4.0.8
+Date: Tue, 27 Aug 2013 13:16:57 ART
+Server: nginx/1.4.2 + Phusion Passenger 4.0.7
+
+s-I- 13:17:00 - 27/08/2013
+
+
+POST /aqm/reg_sesion/create HTTP/1.1
+Host: ccys.siafa.com.ar
+Content-Length: 224
+
+rs[sn]=AQM120716&rs[ts]=2013/08/27 13:10:57&rs[lat]=S 34 38.8440&rs[lon]=W 058 29.8961&rs[si1]=Temp&rs[sv1]=20.8&rs[si2]=Hum &rs[sv2]=37&rs[si3]=CO  &rs[sv3]=0.71&rs[si4]=SO2 &rs[sv4]=0.17&rs[si5]=VOCs&rs[sv5]=0.024&rs[obs]=
+
+Respuesta:
+enger 4.0.7
+
+HTTP/ent-Type: text/html;charset=utf-8
+Content-Length: 0
+Connection: keep-alive
+Status: 200 OK
+X-Powered-By: Phusion Passenger 4.0.8
+Date: Tue, 27 Aug 2013 13:17:00 ART
+Server: nginx/1.4.2 + Phusion Passenger 4.0.7
+
+s
+
+POST /aqm/reg_sesion/create HTTP/1.1
+Host: ccys.siafa.com.ar
+Content-Length: 224
+
+rs[sn]=AQM120716&rs[ts]=2013/08/27 13:15:58&rs[lat]=S 34 38.8413&rs[lon]=W 058 29.8901&rs[si1]=Temp&rs[sv1]=22.0&rs[si2]=Hum &rs[sv2]=38&rs[si3]=CO  &rs[sv3]=0.71&rs[si4]=SO2 &rs[sv4]=0.14&rs[si5]=VOCs&rs[sv5]=0.010&rs[obs]=
+
+Respuesta:
+enger 4.0.7
+
+HTTP/ent-Type: text/html;charset=utf-8
+Content-Length: 0
+Connection: keep-alive
+Status: 200 OK
+X-Powered-By: Phusion Passenger 4.0.8
+Date: Tue, 27 Aug 2013 13:17:04 ART
+Server: nginx/1.4.2 + Phusion Passenger 4.0.7
+
+s
+
+-I- Cerrando socket TCP/IP.
+-I- 
+Espera respuesta del servidor:
+enger 4.0.7
+
+HTTP/1d
+200 OK-I- AT Command: AT#CONNECTIONSTOP
+-I- Stack TCP/IP detenido. Respuesta: OK
+-I- Datos transmitidos a la DB por GPRS.
+-I- 13:18:00 - 27/08/2013
+-I- 13:19:00 - 27/08/2013
+-I- Ventiladores encendidos.
+-I- 13:20:00 - 27/08/2013
+-I- AT Command: AT+CREG?
+-I- AT Command: AT+CMGR=1
+-I- No hay SMS disponible.
+-I- Ventiladores apagados.
+-I- Se espera un comando del GPS durante 5 segundos...
+-I- Comando NMEA recibido.
+-I- Checksum = 54 -> OK.
+-I- Cmd: $GPRMC,162056.000,A,3438.8382,S,05829.8931,W,0.18,24.83,270813,,,A*54
+-I- Guardando registro de muestreo en la sesion en curso...
+-I- Escritos 200 bytes en el archivo 0:/AQM120716_2013-08-27_1218.csv.
+-I- 13:21:00 - 27/08/2013
+-I- 13:22:00 - 27/08/2013
