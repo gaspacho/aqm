@@ -1,0 +1,273 @@
+-I- 17:19:00 - 27/08/2013
+-I- Ventiladores apagados.
+-I- Se espera un comando del GPS durante 5 segundos...
+-I- Comando NMEA recibido.
+-I- Checksum = 59 -> OK.
+-I- Cmd: $GPRMC,201905.000,A,3438.8401,S,05829.8987,W,0.18,20.82,270813,,,A*59
+-I- Guardando registro de muestreo en la sesion en curso...
+-I- Escritos 200 bytes en el archivo 0:/AQM120716_2013-08-27_1616.csv.
+-I- AT Command: AT+CREG?
+-I- Estado del servicio: .
+-I- Error, no hay servicio disponible para envio de datos por GPRS.
+-I- 17:20:00 - 27/08/2013
+-I- AT Command: AT+CREG?
+-I- 17:21:00 - 27/08/2013
+-I- Se enciende el LCD por tocar la pantalla. Se apaga en 2 minutos.
+-I- Leidos 12288 bytes del archivo 0:/img/ico-ok.dat.
+-I- Leidos 12288 bytes del archivo 0:/img/ico-cancel.dat.
+-I- Finalizando sesion...
+-I- Ventiladores apagados.
+-I- Escritos 512 bytes en el archivo 0:/AQM120716_2013-08-27_1616.csv.
+-I- Escritos 256 bytes en el archivo 0:/cfg/aqm-config.dat.
+-I- Escritos 200 bytes en el archivo 0:/AQM120716_2013-08-27_1616.csv.
+-I- AT Command: AT+CREG?
+-I- AT Command: AT+CGREG?
+-I- Modo GPRS activado.
+-I- AT Command: AT#CONNECTIONSTART
+-I- Stack TCP/IP iniciado. IP: 181.4.209.110
+-I- AT Command: AT#OTCP=1
+-I- Socket TCP abierto. Estado: 
+Ok_Info_WaitingForData
+
+POST /aqm/reg_sesion/create HTTP/1.1
+Host: ccys.siafa.com.ar
+Content-Length: 224
+
+rs[sn]=AQM120716&rs[ts]=2013/08/27 17:19:08&rs[lat]=S 34 38.8401&rs[lon]=W 058 29.8987&rs[si1]=Temp&rs[sv1]=22.1&rs[si2]=Hum &rs[sv2]=38&rs[si3]=CO  &rs[sv3]=0.68&rs[si4]=SO2 &rs[sv4]=0.15&rs[si5]=VOCs&rs[sv5]=0.023&rs[obs]=
+
+Respuesta:
+-I- 17:22:00 - 27/08/2013
+ent-Type: text/html;charset=utf-8
+Content-Length: 0
+Connection: keep-alive
+Status: 200 OK
+X-Powered-By: Phusion Passenger 4.0.8
+Date: Tue, 27 Aug 2013 17:21:57 ART
+Server: nginx/1.4.2 + Phusion Passenger 4.0.7
+
+
+
+POST /aqm/reg_sesion/create HTTP/1.1
+Host: ccys.siafa.com.ar
+Content-Length: 224
+
+rs[sn]=AQM120716&rs[ts]=2013/08/27 16:23:57&rs[lat]=S 34 38.8444&rs[lon]=W 058 29.8927&rs[si1]=Temp&rs[sv1]=23.4&rs[si2]=Hum &rs[sv2]=37&rs[si3]=CO  &rs[sv3]=0.76&rs[si4]=SO2 &rs[sv4]=0.14&rs[si5]=VOCs&rs[sv5]=0.006&rs[obs]=
+
+Respuesta:
+HTTP/ent-Type: text/html;charset=utf-8
+Content-Length: 0
+Connection: keep-alive
+Status: 200 OK
+X-Powered-By: Phusion Passenger 4.0.8
+Date: Tue, 27 Aug 2013 17:22:02 ART
+Server: nginx/1.4.2 + Phusion Passenger 4.0.7
+
+s
+
+POST /aqm/reg_sesion/create HTTP/1.1
+Host: ccys.siafa.com.ar
+Content-Length: 224
+
+rs[sn]=AQM120716&rs[ts]=2013/08/27 16:28:58&rs[lat]=S 34 38.8384&rs[lon]=W 058 29.8961&rs[si1]=Temp&rs[sv1]=22.8&rs[si2]=Hum &rs[sv2]=36&rs[si3]=CO  &rs[sv3]=0.69&rs[si4]=SO2 &rs[sv4]=0.17&rs[si5]=VOCs&rs[sv5]=0.062&rs[obs]=
+
+Respuesta:
+enger 4.0.7
+
+HTTP/ent-Type: text/html;charset=utf-8
+Content-Length: 0
+Connection: keep-alive
+Status: 200 OK
+X-Powered-By: Phusion Passenger 4.0.8
+Date: Tue, 27 Aug 2013 17:22:06 ART
+Server: nginx/1.4.2 + Phusion Passenger 4.0.7
+
+s
+
+POST /aqm/reg_sesion/create HTTP/1.1
+Host: ccys.siafa.com.ar
+Content-Length: 224
+
+rs[sn]=AQM120716&rs[ts]=2013/08/27 16:33:59&rs[lat]=S 34 38.8372&rs[lon]=W 058 29.8908&rs[si1]=Temp&rs[sv1]=21.6&rs[si2]=Hum &rs[sv2]=36&rs[si3]=CO  &rs[sv3]=0.63&rs[si4]=SO2 &rs[sv4]=0.17&rs[si5]=VOCs&rs[sv5]=0.054&rs[obs]=
+
+Respuesta:
+enger 4.0.7
+
+HTTP/ent-Type: text/html;charset=utf-8
+Content-Length: 0
+Connection: keep-alive
+Status: 200 OK
+X-Powered-By: Phusion Passenger 4.0.8
+Date: Tue, 27 Aug 2013 17:22:09 ART
+Server: nginx/1.4.2 + Phusion Passenger 4.0.7
+
+s
+
+POST /aqm/reg_sesion/create HTTP/1.1
+Host: ccys.siafa.com.ar
+Content-Length: 224
+
+rs[sn]=AQM120716&rs[ts]=2013/08/27 16:39:00&rs[lat]=S 34 38.8384&rs[lon]=W 058 29.8961&rs[si1]=Temp&rs[sv1]=22.1&rs[si2]=Hum &rs[sv2]=36&rs[si3]=CO  &rs[sv3]=0.64&rs[si4]=SO2 &rs[sv4]=0.16&rs[si5]=VOCs&rs[sv5]=0.039&rs[obs]=
+
+Respuesta:
+enger 4.0.7
+
+HTTP/ent-Type: text/html;charset=utf-8
+Content-Length: 0
+Connection: keep-alive
+Status: 200 OK
+X-Powered-By: Phusion Passenger 4.0.8
+Date: Tue, 27 Aug 2013 17:22:13 ART
+Server: nginx/1.4.2 + Phusion Passenger 4.0.7
+
+s
+
+POST /aqm/reg_sesion/create HTTP/1.1
+Host: ccys.siafa.com.ar
+Content-Length: 224
+
+rs[sn]=AQM120716&rs[ts]=2013/08/27 16:44:01&rs[lat]=S 34 38.8358&rs[lon]=W 058 29.8881&rs[si1]=Temp&rs[sv1]=21.7&rs[si2]=Hum &rs[sv2]=36&rs[si3]=CO  &rs[sv3]=0.72&rs[si4]=SO2 &rs[sv4]=0.15&rs[si5]=VOCs&rs[sv5]=0.000&rs[obs]=
+
+Respuesta:
+enger 4.0.7
+
+HTTP/ent-Type: text/html;charset=utf-8
+Content-Length: 0
+Connection: keep-alive
+Status: 200 OK
+X-Powered-By: Phusion Passenger 4.0.8
+Date: Tue, 27 Aug 2013 17:22:17 ART
+Server: nginx/1.4.2 + Phusion Passenger 4.0.7
+
+s
+
+POST /aqm/reg_sesion/create HTTP/1.1
+Host: ccys.siafa.com.ar
+Content-Length: 224
+
+rs[sn]=AQM120716&rs[ts]=2013/08/27 16:49:02&rs[lat]=S 34 38.8379&rs[lon]=W 058 29.8976&rs[si1]=Temp&rs[sv1]=22.0&rs[si2]=Hum &rs[sv2]=37&rs[si3]=CO  &rs[sv3]=0.71&rs[si4]=SO2 &rs[sv4]=0.18&rs[si5]=VOCs&rs[sv5]=0.020&rs[obs]=
+
+Respuesta:
+enger 4.0.7
+
+HTTP/ent-Type: text/html;charset=utf-8
+Content-Length: 0
+Connection: keep-alive
+Status: 200 OK
+X-Powered-By: Phusion Passenger 4.0.8
+Date: Tue, 27 Aug 2013 17:22:21 ART
+Server: nginx/1.4.2 + Phusion Passenger 4.0.7
+
+s
+
+POST /aqm/reg_sesion/create HTTP/1.1
+Host: ccys.siafa.com.ar
+Content-Length: 224
+
+rs[sn]=AQM120716&rs[ts]=2013/08/27 16:54:03&rs[lat]=S 34 38.8377&rs[lon]=W 058 29.8938&rs[si1]=Temp&rs[sv1]=21.7&rs[si2]=Hum &rs[sv2]=37&rs[si3]=CO  &rs[sv3]=0.61&rs[si4]=SO2 &rs[sv4]=0.17&rs[si5]=VOCs&rs[sv5]=0.010&rs[obs]=
+
+Respuesta:
+
+
+POST /aqm/reg_sesion/create HTTP/1.1
+Host: ccys.siafa.com.ar
+Content-Length: 224
+
+rs[sn]=AQM120716&rs[ts]=2013/08/27 16:59:04&rs[lat]=S 34 38.8399&rs[lon]=W 058 29.8924&rs[si1]=Temp&rs[sv1]=22.1&rs[si2]=Hum &rs[sv2]=37&rs[si3]=CO  &rs[sv3]=0.78&rs[si4]=SO2 &rs[sv4]=0.17&rs[si5]=VOCs&rs[sv5]=0.033&rs[obs]=
+
+Respuesta:
+
+
+POST /aqm/reg_sesion/create HTTP/1.1
+Host: ccys.siafa.com.ar
+Content-Length: 224
+
+rs[sn]=AQM120716&rs[ts]=2013/08/27 17:04:05&rs[lat]=S 34 38.8388&rs[lon]=W 058 29.8986&rs[si1]=Temp&rs[sv1]=22.9&rs[si2]=Hum &rs[sv2]=37&rs[si3]=CO  &rs[sv3]=0.70&rs[si4]=SO2 &rs[sv4]=0.18&rs[si5]=VOCs&rs[sv5]=0.014&rs[obs]=
+
+Respuesta:
+enger 4.0.7
+
+HTTP/ent-Type: text/html;charset=utf-8
+Content-Length: 0
+Connection: keep-alive
+Status: 200 OK
+X-Powered-By: Phusion Passenger 4.0.8
+Date: Tue, 27 Aug 2013 17:22:35 ART
+Server: nginx/1.4.2 + Phusion Passenger 4.0.7
+
+senger 4.0.7
+
+HTTP/ent-Type: text/html;charset=utf-8
+Content-Length: 0
+Connection: keep-alive
+Status: 200 OK
+X-Powered-By: Phusion Passenger 4.0.8
+Date: Tue, 27 Aug 2013 17:22:36 ART
+Server: nginx/1.4.2 + Phusion Passenger 4.0.7
+
+s
+
+POST /aqm/reg_sesion/create HTTP/1.1
+Host: ccys.siafa.com.ar
+Content-Length: 224
+
+rs[sn]=AQM120716&rs[ts]=2013/08/27 17:09:06&rs[lat]=S 34 38.8389&rs[lon]=W 058 29.8957&rs[si1]=Temp&rs[sv1]=21.8&rs[si2]=Hum &rs[sv2]=38&rs[si3]=CO  &rs[sv3]=0.75&rs[si4]=SO2 &rs[sv4]=0.15&rs[si5]=VOCs&rs[sv5]=0.013&rs[obs]=
+
+Respuesta:
+enger 4.0.7
+
+HTTP/1nt-Type: text/html;charset=utf-8
+Content-Length: 0
+Connection: keep-alive
+Status: 200 OK
+X-Powered-By: Phusion Passenger 4.0.8
+Date: Tue, 27 Aug 2013 17:22:37 ART
+Server: nginx/1.4.2 + Phusion Passenger 4.0.7
+
+senger 4.0.7
+
+HTTP/ent-Type: text/html;charset=utf-8
+Content-Length: 0
+Connection: keep-alive
+Status: 200 OK
+X-Powered-By: Phusion Passenger 4.0.8
+Date: Tue, 27 Aug 2013 17:22:37 ART
+Server: nginx/1.4.2 + Phusion Passenger 4.0.7
+
+s
+
+POST /aqm/reg_sesion/create HTTP/1.1
+Host: ccys.siafa.com.ar
+Content-Length: 224
+
+rs[sn]=AQM120716&rs[ts]=2013/08/27 17:14:07&rs[lat]=S 34 38.8388&rs[lon]=W 058 29.8960&rs[si1]=Temp&rs[sv1]=23.4&rs[si2]=Hum &rs[sv2]=38&rs[si3]=CO  &rs[sv3]=0.70&rs[si4]=SO2 &rs[sv4]=0.13&rs[si5]=VOCs&rs[sv5]=0.023&rs[obs]=
+
+Respuesta:
+
+
+-I- Cerrando socket TCP/IP.
+-I- 
+Espera respuesta del servidor:
+enger 4.0.S
+
+HTTP/ed
+200 OK-I- 17:23:00 - 27/08/2013
+-I- AT Command: AT#CONNECTIONSTOP
+-I- Stack TCP/IP detenido. Respuesta: OK
+-I- Datos transmitidos a la DB por GPRS.
+-I- Leidos 12288 bytes del archivo 0:/img/ico-8.dat.
+-I- Leidos 12288 bytes del archivo 0:/img/ico-24.dat.
+-I- Leidos 12288 bytes del archivo 0:/img/ico-go.dat.
+-I- Leidos 12288 bytes del archivo 0:/img/ico-stop.dat.
+-I- Leidos 12288 bytes del archivo 0:/img/ico-cal.dat.
+-I- Leidos 12288 bytes del archivo 0:/img/ico-list.dat.
+-I- Pasaron 2 minutos sin presionar el touchscreen. Se apaga el LCD.
+-I- Se enciende el LCD por tocar la pantalla. Se apaga en 2 minutos.
+-I- Iniciando sesion de 8hs...
+-I- Archivo: 0:/AQM120716_2013-08-27_1723.csv.
+-I- Escritos 512 bytes en el archivo 0:/AQM120716_2013-08-27_1723.csv.
+-I- Leidos 12288 bytes del archivo 0:/img/ico-8.dat.
+-I- Leidos 12288 bytes del archivo 0:/img/ico-24.dat.
+-I- Leidos 12288 bytes del archivo 0:/img/ico-go.dat.
+-I- Leidos 12288 bytes del archivo 0:/img/ico-stop.dat.
+-I- Leidos 12288 bytes del archivo 0:/img/ico-cal.dat.
+-I- Leidos 12288 bytes del archivo 0:/img/ico-list.dat.
