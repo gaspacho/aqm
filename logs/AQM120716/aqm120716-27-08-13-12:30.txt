@@ -304,3 +304,4 @@ ERROR
 -I- 11:51:00 - 27/08/2013
 -I- 11:52:00 - 27/08/2013
 -I- Ventiladores encendidos.
+
