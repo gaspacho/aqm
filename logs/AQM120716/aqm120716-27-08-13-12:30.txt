@@ -1,0 +1,306 @@
+-I- AT Command: AT+CREG?
+-I- AT Command: AT+CGREG?
+-I- AT Command: AT+CGATT=1
+-I- AT Command: AT+CGREG?
+-I- GPRS Registration status: +CGREG: 0,1
+-I- Modo GPRS activado.
+-I- AT Command: AT#CONNECTIONSTART
+-I- 11:29:00 - 27/08/2013
+-I- Stack TCP/IP iniciado. IP: 186.111.110.238
+-I- AT Command: AT#OTCP=1
+-I- Socket TCP abierto. Estado:
+Ok_Info_WaitingForData
+
+POST /aqm/reg_sesion/create HTTP/1.1
+Host: ccys.siafa.com.ar
+Content-Length: 224
+
+rs[sn]=AQM120716&rs[ts]=2013/08/27 11:23:41&rs[lat]=S 34 38.8427&rs[lon]=W 058 2
+9.8143&rs[si1]=Temp&rs[sv1]=31.3&rs[si2]=Hum &rs[sv2]=30&rs[si3]=CO  &rs[sv3]=2.
+17&rs[si4]=SO2 &rs[sv4]=0.16&rs[si5]=VOCs&rs[sv5]=0.032&rs[obs]=
+
+Respuesta:
+nt-Type: text/html;charset=utf-8
+Content-Length: 0
+Connection: keep-alive
+Status: 200 OK
+X-Powered-By: Phusion Passenger 4.0.8
+Date: Tue, 27 Aug 2013 11:29:12 ART
+Server: nginx/1.4.2 + Phusion Passenger 4.0.7
+
+
+
+POST /aqm/reg_sesion/create HTTP/1.1
+Host: ccys.siafa.com.ar
+Content-Length: 224
+
+rs[sn]=AQM120716&rs[ts]=2013/08/27 11:28:42&rs[lat]=S 34 38.8427&rs[lon]=W 058 2
+9.8143&rs[si1]=Temp&rs[sv1]=30.0&rs[si2]=Hum &rs[sv2]=30&rs[si3]=CO  &rs[sv3]=2.
+14&rs[si4]=SO2 &rs[sv4]=0.16&rs[si5]=VOCs&rs[sv5]=0.047&rs[obs]=
+
+Respuesta:
+HTTP/ent-Type: text/html;charset=utf-8
+Content-Length: 0
+Connection: keep-alive
+Status: 200 OK
+X-Powered-By: Phusion Passenger 4.0.8
+Date: Tue, 27 Aug 2013 11:29:16 ART
+Server: nginx/1.4.2 + Phusion Passenger 4.0.7
+
+s
+
+POST /aqm/reg_sesion/create HTTP/1.1
+Host: ccys.siafa.com.ar
+Content-Length: 224
+
+rs[sn]=AQM120716&rs[ts]=2013/08/27 10:33:30&rs[lat]=S 34 38.8427&rs[lon]=W 058 2
+9.8143&rs[si1]=Temp&rs[sv1]=30.6&rs[si2]=Hum &rs[sv2]=31&rs[si3]=CO  &rs[sv3]=2.
+29&rs[si4]=SO2 &rs[sv4]=0.17&rs[si5]=VOCs&rs[sv5]=0.078&rs[obs]=
+
+Respuesta:
+enger 4.0.7
+
+HTTP/1nt-Type: text/html;charset=utf-8
+Content-Length: 0
+Connection: keep-alive
+Status: 200 OK
+X-Powered-By: Phusion Passenger 4.0.8
+Date: Tue, 27 Aug 2013 11:29:20 ART
+Server: nginx/1.4.2 + Phusion Passenger 4.0.7
+
+s
+
+POST /aqm/reg_sesion/create HTTP/1.1
+Host: ccys.siafa.com.ar
+Content-Length: 224
+
+rs[sn]=AQM120716&rs[ts]=2013/08/27 10:38:31&rs[lat]=S 34 38.8427&rs[lon]=W 058 2
+9.8143&rs[si1]=Temp&rs[sv1]=30.7&rs[si2]=Hum &rs[sv2]=31&rs[si3]=CO  &rs[sv3]=2.
+34&rs[si4]=SO2 &rs[sv4]=0.14&rs[si5]=VOCs&rs[sv5]=0.069&rs[obs]=
+
+Respuesta:
+enger 4.0.7
+
+HTTP/ent-Type: text/html;charset=utf-8
+Content-Length: 0
+Connection: keep-alive
+Status: 200 OK
+X-Powered-By: Phusion Passenger 4.0.8
+Date: Tue, 27 Aug 2013 11:29:26 ART
+Server: nginx/1.4.2 + Phusion Passenger 4.0.7
+
+s
+
+POST /aqm/reg_sesion/create HTTP/1.1
+Host: ccys.siafa.com.ar
+Content-Length: 224
+
+rs[sn]=AQM120716&rs[ts]=2013/08/27 10:43:32&rs[lat]=S 34 38.8427&rs[lon]=W 058 2
+9.8143&rs[si1]=Temp&rs[sv1]=30.7&rs[si2]=Hum &rs[sv2]=30&rs[si3]=CO  &rs[sv3]=2.
+32&rs[si4]=SO2 &rs[sv4]=0.15&rs[si5]=VOCs&rs[sv5]=0.065&rs[obs]=
+
+Respuesta:
+enger 4.0.7
+
+HTTP/ent-Type: text/html;charset=utf-8
+Content-Length: 0
+Connection: keep-alive
+Status: 200 OK
+X-Powered-By: Phusion Passenger 4.0.8
+Date: Tue, 27 Aug 2013 11:29:29 ART
+Server: nginx/1.4.2 + Phusion Passenger 4.0.7
+
+s
+
+POST /aqm/reg_sesion/create HTTP/1.1
+Host: ccys.siafa.com.ar
+Content-Length: 224
+
+rs[sn]=AQM120716&rs[ts]=2013/08/27 10:48:34&rs[lat]=S 34 38.8427&rs[lon]=W 058 2
+9.8143&rs[si1]=Temp&rs[sv1]=30.7&rs[si2]=Hum &rs[sv2]=31&rs[si3]=CO  &rs[sv3]=2.
+23&rs[si4]=SO2 &rs[sv4]=0.15&rs[si5]=VOCs&rs[sv5]=0.078&rs[obs]=
+
+Respuesta:
+enger 4.0.7
+
+HTTP/1nt-Type: text/html;charset=utf-8
+Content-Length: 0
+Connection: keep-alive
+Status: 200 OK
+X-Powered-By: Phusion Passenger 4.0.8
+Date: Tue, 27 Aug 2013 11:29:32 ART
+Server: nginx/1.4.2 + Phusion Passenger 4.0.7
+
+s
+
+-I- Cerrando socket TCP/IP.
+-I-
+Espera respuesta del servidor:
+enger 4.0.7
+
+HTTP/ed
+-I- AT Command: AT#CONNECTIONSTOP
+-I- 11:30:00 - 27/08/2013
+-I- Stack TCP/IP detenido. Respuesta: OK
+-I- Datos transmitidos a la DB por GPRS.
+-I- AT Command: AT+CREG?
+-I- AT Command: AT+CMGR=1
+-I- No hay SMS disponible.
+-I- 11:31:00 - 27/08/2013
+-I- Ventiladores encendidos.
+-I- 11:32:00 - 27/08/2013
+-I- 11:33:00 - 27/08/2013
+-I- Ventiladores apagados.
+-I- Se espera un comando del GPS durante 5 segundos...
+-I- TimeOut alcanzado.
+-I- Error de comunicacion con el GPS, no se recibe respuesta.
+-I- Guardando registro de muestreo en la sesion en curso...
+-I- Escritos 200 bytes en el archivo 0:/AQM120716_2013-08-26_1647.csv.
+-I- 11:34:00 - 27/08/2013
+-I- 11:35:00 - 27/08/2013
+-I- AT Command: AT+CREG?
+-I- AT Command: AT+CMGR=1
+-I- No hay SMS disponible.
+-I- 11:36:00 - 27/08/2013
+-I- Ventiladores encendidos.
+-I- 11:37:00 - 27/08/2013
+-I- 11:38:00 - 27/08/2013
+-I- Ventiladores apagados.
+-I- Se espera un comando del GPS durante 5 segundos...
+-I- TimeOut alcanzado.
+-I- Error de comunicacion con el GPS, no se recibe respuesta.
+-I- Guardando registro de muestreo en la sesion en curso...
+-I- Escritos 200 bytes en el archivo 0:/AQM120716_2013-08-26_1647.csv.
+-I- 11:39:00 - 27/08/2013
+-I- 11:40:00 - 27/08/2013
+-I- AT Command: AT+CREG?
+-I- AT Command: AT+CMGR=1
+-I- No hay SMS disponible.
+-I- 11:41:00 - 27/08/2013
+-I- 11:42:00 - 27/08/2013
+-I- Ventiladores encendidos.
+-I- 11:43:00 - 27/08/2013
+-I- Ventiladores apagados.
+-I- Se espera un comando del GPS durante 5 segundos...
+-I- Comando NMEA recibido.
+-I- Checksum = 77 -> OK.
+-I- Guardando registro de muestreo en la sesion en curso...349.78,270813,,,N*77
+-I- Escritos 200 bytes en el archivo 0:/AQM120716_2013-08-26_1647.csv.
+-I- AT Command: AT+CREG?
+-I- AT Command: AT+CGREG?
+-I- Modo GPRS activado.
+-I- AT Command: AT#CONNECTIONSTART
+-I- 11:44:00 - 27/08/2013
+-I- Stack TCP/IP iniciado. IP: 181.3.43.205
+-I- AT Command: AT#OTCP=1
+-I- Socket TCP abierto. Estado:
+Ok_Info_WaitingForData
+
+POST /aqm/reg_sesion/create HTTP/1.1
+Host: ccys.siafa.com.ar
+Content-Length: 224
+
+rs[sn]=AQM120716&rs[ts]=2013/08/27 11:33:43&rs[lat]=S 34 38.8427&rs[lon]=W 058 2
+9.8143&rs[si1]=Temp&rs[sv1]=31.4&rs[si2]=Hum &rs[sv2]=30&rs[si3]=CO  &rs[sv3]=1.
+80&rs[si4]=SO2 &rs[sv4]=0.14&rs[si5]=VOCs&rs[sv5]=0.065&rs[obs]=
+
+Respuesta:
+
+
+POST /aqm/reg_sesion/create HTTP/1.1
+Host: ccys.siafa.com.ar
+Content-Length: 224
+
+rs[sn]=AQM120716&rs[ts]=2013/08/27 11:38:44&rs[lat]=S 34 38.8427&rs[lon]=W 058 2
+9.8143&rs[si1]=Temp&rs[sv1]=31.9&rs[si2]=Hum &rs[sv2]=30&rs[si3]=CO  &rs[sv3]=1.
+83&rs[si4]=SO2 &rs[sv4]=0.16&rs[si5]=VOCs&rs[sv5]=0.066&rs[obs]=
+
+Respuesta:
+
+
+POST /aqm/reg_sesion/create HTTP/1.1
+Host: ccys.siafa.com.ar
+Content-Length: 224
+
+rs[sn]=AQM120716&rs[ts]=2013/08/27 11:43:44&rs[lat]=S 34 38.8095&rs[lon]=W 058 2
+9.9057&rs[si1]=Temp&rs[sv1]=31.7&rs[si2]=Hum &rs[sv2]=31&rs[si3]=CO  &rs[sv3]=1.
+97&rs[si4]=SO2 &rs[sv4]=0.16&rs[si5]=VOCs&rs[sv5]=0.023&rs[obs]=
+
+Respuesta:
+
+
+POST /aqm/reg_sesion/create HTTP/1.1
+Host: ccys.siafa.com.ar
+Content-Length: 224
+
+rs[sn]=AQM120716&rs[ts]=2013/08/27 10:48:34&rs[lat]=S 34 38.8427&rs[lon]=W 058 2
+9.8143&rs[si1]=Temp&rs[sv1]=30.7&rs[si2]=Hum &rs[sv2]=31&rs[si3]=CO  &rs[sv3]=2.
+23&rs[si4]=SO2 &rs[sv4]=0.15&rs[si5]=VOCs&rs[sv5]=0.078&rs[obs]=
+
+Respuesta:
+
+
+-I- Cerrando socket TCP/IP.
+-I-
+Espera respuesta del servidor:
+-I- AT Command: AT#CONNECTIONSTOP
+-I- 11:45:00 - 27/08/2013
+-I- Respuesta: 
+Ok_Info_SocketClosed
+
+OK
+
+ERROR
+
+ERROR
+
+ERROR
+.
+-I- Error al detener Stack TCP/IP. Respuesta: 
+Ok_Info_SocketClosed
+
+OK
+
+ERROR
+
+ERROR
+
+ERROR
+
+-I- Cerrando socket TCP/IP.
+-I-
+Espera respuesta del servidor:
+
+Ok_Info_SocketClosed
+
+OK
+
+ERROR
+
+ERROR
+
+ERROR
+-I- AT Command: AT#CONNECTIONSTOP
+-I- Stack TCP/IP detenido. Respuesta: OK
+-I- Datos transmitidos a la DB por GPRS.
+-I- 11:46:00 - 27/08/2013
+-I- AT Command: AT+CREG?
+-I- AT Command: AT+CMGR=1
+-I- No hay SMS disponible.
+-I- 11:47:00 - 27/08/2013
+-I- Ventiladores encendidos.
+-I- 11:48:00 - 27/08/2013
+-I- Ventiladores apagados.
+-I- Se espera un comando del GPS durante 5 segundos...
+-I- TimeOut alcanzado.
+-I- Error de comunicacion con el GPS, no se recibe respuesta.
+-I- Guardando registro de muestreo en la sesion en curso...
+-I- Escritos 200 bytes en el archivo 0:/AQM120716_2013-08-26_1647.csv.
+-I- 11:49:00 - 27/08/2013
+-I- 11:50:00 - 27/08/2013
+-I- AT Command: AT+CREG?
+-I- AT Command: AT+CMGR=1
+-I- No hay SMS disponible.
+-I- 11:51:00 - 27/08/2013
+-I- 11:52:00 - 27/08/2013
+-I- Ventiladores encendidos.
